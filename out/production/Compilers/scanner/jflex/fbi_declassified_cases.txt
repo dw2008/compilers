@@ -1,0 +1,597 @@
+================================================================================
+FBI DECLASSIFIED CASE FILES DATABASE
+CLASSIFICATION: UNCLASSIFIED//FOR PUBLIC RELEASE
+COMPILED: 05-FEB-2025 14:30:00Z
+================================================================================
+
+=== CASE FILE: CF-1947-HQ-001234 ===
+CLASSIFICATION: TOP SECRET//NOFORN [DECLASSIFIED 2011]
+OPERATION: FLYING DISC INVESTIGATION
+DATE: 08-JUL-1947 16:45:00Z
+LOCATION: Roswell, New Mexico (33.3943°N, 104.5230°W)
+SUBJECT: Unidentified Flying Object Recovery
+CASE AGENT: Special Agent Guy Hottel
+CONTACT: hottel.g@fbihq.gov | PHONE: +1-202-555-0147
+DOCUMENT ID: DOC-FBI-1947-UFO-001
+
+INCIDENT REPORT:
+On 1947-07-08, the FBI Dallas Field Office transmitted teletype regarding 
+discovery of hexagonal disc suspended from weather balloon via cable. Object 
+recovered near coordinates 33.3943N/104.5230W. Physical evidence collected: 
+metallic fragments (EVIDENCE-1947-001), balloon material (EVIDENCE-1947-002), 
+radar reflector components (EVIDENCE-1947-003).
+
+WITNESS STATEMENTS: 
+- Rancher W. Brazel (SSN: 123-45-6789) reported finding debris at ranch
+- Major Jesse Marcel, USAAF (ID: MIL-47-8901) examined materials
+- Sheriff George Wilcox (BADGE: NM-047-012) secured scene
+
+EVIDENCE ANALYSIS:
+Material composition: Aluminum alloy 94.2%, unknown polymer 5.8%
+Radiation levels: 0.003 mSv/hr (SAFE)
+Classification changed from SECRET to UNCLASSIFIED per EO 13526
+
+URL: https://vault.fbi.gov/Roswell%20UFO/view
+DECLASSIFICATION DATE: 2011-04-11
+STATUS: CLOSED - INSUFFICIENT EVIDENCE
+[REDACTED SECTIONS: 3] [TOTAL PAGES: 57]
+
+================================================================================
+
+=== CASE FILE: CF-1950-WFO-005678 ===
+CLASSIFICATION: SECRET//REL TO USA, AUS, CAN, GBR, NZL [DECLASSIFIED 2011]
+OPERATION: MAJESTIC SAUCER
+DATE: 22-MAR-1950 09:15:30Z
+LOCATION: Washington Field Office, D.C. (38.8977°N, 77.0365°W)
+SUBJECT: Flying Saucer Investigation - Memo 6751
+CASE AGENT: Special Agent Guy Hottel
+CONTACT: hottel.g@fbi.gov | PHONE: +1-202-555-0150
+DOCUMENT ID: DOC-FBI-1950-FS-6751
+
+MEMORANDUM TO: Director J. Edgar Hoover
+FROM: SAC Guy Hottel, Washington Field Office
+RE: Flying Saucers
+
+INVESTIGATION SUMMARY:
+Air Force investigator reported three (3) flying saucers recovered in New Mexico.
+Each saucer described as circular, approximately 50 feet in diameter.
+Interior contained three (3) bodies of human shape, height 3 feet.
+Bodies dressed in metallic cloth, fine texture, each body bandaged.
+
+INFORMANT DETAILS:
+- Identity: [REDACTED] (ASSET-1950-042)
+- Reliability: B+ (Confirmed in 12/15 previous cases)
+- Security Clearance: TOP SECRET//SI//TK
+- Contact Method: Dead drop location ALPHA-7 (coordinates: 38.9072N/77.0369W)
+
+TECHNICAL ANALYSIS:
+High-powered radar interference theory proposed at coordinates 32.8998N/106.4026W
+Government radar installation: White Sands Proving Ground (FACILITY-ID: WSPG-001)
+Electromagnetic frequency: 2.45 GHz causing alleged control mechanism disruption
+
+DISPOSITION: No follow-up investigation warranted - hearsay evidence only
+EMAIL TRAIL: hoover.je@fbihq.gov, hottel.g@fbi.gov, tolson.c@fbihq.gov
+VAULT URL: https://vault.fbi.gov/UFO/Hottel-Memo/part01
+VIEWS: 987,234 (Most viewed document in FBI Vault)
+[SANITIZED COPY] [████████ PORTIONS REDACTED]
+
+================================================================================
+
+=== CASE FILE: CF-1934-CHI-009876 ===
+CLASSIFICATION: CONFIDENTIAL [DECLASSIFIED 1978]
+OPERATION: PUBLIC ENEMY NUMBER ONE
+DATE: 22-JUL-1934 22:40:15Z
+LOCATION: Biograph Theater, Chicago, IL (41.9194°N, 87.6488°W)
+SUBJECT: DILLINGER, John Herbert Jr.
+CASE AGENT: Special Agent Melvin Purvis
+CONTACT: purvis.m@chicago.fbi.gov | PHONE: +1-312-555-0134
+DOCUMENT ID: DOC-FBI-1934-DILLINGER-FINAL
+
+WANTED NOTICE - IDENTIFICATION ORDER #1217
+NAME: John Herbert Dillinger Jr.
+ALIASES: "Jackrabbit", "Jimmy Lawrence"
+DOB: 1903-06-22 | AGE: 31 | SEX: Male
+HEIGHT: 5'7.5" | WEIGHT: 170 lbs | EYES: Gray
+SSN: 234-56-7890 | FBI #: 1234567
+FINGERPRINT CLASS: 17/L/9/U/OOO/14
+SCARS: 0.75" scar at base middle finger (right hand)
+
+CRIMINAL HISTORY:
+1924-09-12: Grocery store robbery, Mooresville, IN - 10 years Indiana State Prison
+1933-05-10: Prison escape, Michigan City, IN (INCIDENT-933-MC-001)
+1933-09-06: First National Bank, Bluffton, OH - $6,000 stolen
+1933-10-23: Central National Bank, Greencastle, IN - $75,346 stolen
+1934-01-15: First National Bank, East Chicago, IN - Officer O'Malley killed
+1934-03-03: Escape from Lake County Jail using fake wooden gun (EVIDENCE-934-045)
+1934-03-06: Interstate transportation of stolen vehicle (Federal jurisdiction)
+
+GANG MEMBERS:
+- Harry "Pete" Pierpont (SSN: 345-67-8901, STATUS: CAPTURED)
+- Homer Van Meter (SSN: 456-78-9012, STATUS: KILLED 1934-08-23)
+- John "Red" Hamilton (SSN: 567-89-0123, STATUS: KILLED 1934-04-30)
+- Charles "Fat Charley" Makley (SSN: 678-90-1234, STATUS: CAPTURED)
+- Russell "Boobie" Clark (SSN: 789-01-2345, STATUS: CAPTURED)
+
+OPERATION DETAILS:
+Surveillance established at Biograph Theater, 2433 N. Lincoln Avenue
+Informant "Woman in Red" (Anna Sage, CI-ID: 934-CHI-087) provided tip
+Date/Time Group: 221840Z JUL 34
+Agents deployed: 15 (Team Leader: SA Melvin Purvis, BADGE: FBI-1934-001)
+
+INCIDENT TIMELINE:
+22:30:00Z - Subject exits theater with female companions
+22:40:15Z - Subject identified, agents move to arrest
+22:40:22Z - Subject draws .380 Colt automatic (SERIAL: C234567)
+22:40:25Z - Agents return fire - 5 shots fired
+22:40:32Z - Subject down, fatal wounds confirmed
+
+EVIDENCE COLLECTED:
+EVIDENCE-934-101: Colt .380 automatic pistol
+EVIDENCE-934-102: $7.80 in currency
+EVIDENCE-934-103: Death mask (plaster cast taken 1934-07-23)
+EVIDENCE-934-104: Clothing items, blood-stained
+EVIDENCE-934-105: Theater ticket stub ($0.25)
+
+AUTOPSY REPORT: Dr. Charles D. Parker, Cook County Morgue
+CAUSE OF DEATH: Multiple gunshot wounds (4 entry, 3 exit)
+BODY DISPOSITION: Crown Hill Cemetery, Indianapolis, IN
+
+MEDIA COVERAGE: Chicago Tribune, New York Times, TIME Magazine
+PUBLIC REACTION: Estimated 15,000 citizens viewed body at morgue
+REWARD PAID: $10,000 to informant Anna Sage (PAYMENT-934-087)
+
+CASE CLOSED: 1934-07-23 03:15:00Z
+DECLASSIFICATION: 1978-03-15 per FOIA request #78-0234
+FILES: https://vault.fbi.gov/john-dillinger/
+TOTAL DOCUMENTS: 234 pages | REDACTED PORTIONS: 12%
+
+================================================================================
+
+=== CASE FILE: CF-1931-CHI-003456 ===
+CLASSIFICATION: CONFIDENTIAL [DECLASSIFIED 1983]
+OPERATION: SCARFACE TAKEDOWN
+DATE: 17-OCT-1931 14:30:00Z
+LOCATION: Chicago, Illinois (41.8781°N, 87.6298°W)
+SUBJECT: CAPONE, Alphonse Gabriel "Al"
+CASE AGENT: Special Agent Eliot Ness (Treasury Dept, on loan)
+CONTACT: ness.e@treasury.gov | PHONE: +1-312-555-0131
+DOCUMENT ID: DOC-FBI-1931-CAPONE-TAX
+
+SUBJECT INFORMATION:
+NAME: Alphonse Gabriel Capone
+ALIASES: "Scarface", "Big Al", "Snorky"
+DOB: 1899-01-17 | AGE: 32 | SEX: Male
+BIRTHPLACE: Brooklyn, New York
+HEIGHT: 5'10" | WEIGHT: 255 lbs | EYES: Brown
+SSN: 123-67-9045 | FBI #: 9876543
+SCARS: Three prominent scars on left cheek (knife wounds, 1917)
+
+CRIMINAL ENTERPRISE:
+Organization: Chicago Outfit (Criminal Syndicate)
+Territory: Cook County, IL; Cicero, IL (primary operations)
+Activities: Bootlegging, prostitution, gambling, racketeering, murder
+Estimated Annual Revenue: $105,000,000 (1927-1930 average)
+Known Associates: 847 individuals (database ID: CAPONE-ASSOC-DB-001)
+
+KEY ASSOCIATES:
+- Johnny Torrio (MENTOR, retired 1925) - SSN: 234-78-0156
+- Frank Nitti (ENFORCER, successor) - SSN: 345-89-1267
+- Jack "Machine Gun" McGurn (HITMAN) - SSN: 456-90-2378
+- Ralph "Bottles" Capone (BROTHER, operations) - SSN: 567-01-3489
+- Frank "The Enforcer" Capone (BROTHER, deceased 1924-04-01)
+
+NOTABLE INCIDENTS:
+1929-02-14: St. Valentine's Day Massacre - 7 victims (CASE: CF-1929-CHI-214)
+  Location: SMC Cartage Company, 2122 N. Clark Street (41.9214°N, 87.6365°W)
+  Victims: George "Bugs" Moran gang members
+  Method: Thompson submachine gun (EVIDENCE: 929-SGT-101, 929-SGT-102)
+  Suspects: [REDACTED], [REDACTED], [REDACTED], "Machine Gun" McGurn
+  Status: No convictions obtained - witnesses refused testimony
+
+INVESTIGATION APPROACH:
+Primary Strategy: Tax evasion prosecution (26 U.S.C. § 7201)
+Lead Investigator: IRS Special Agent Frank J. Wilson (ID: IRS-931-001)
+Treasury Agents: "The Untouchables" (Team size: 11 agents)
+Bureau Role: Federal grand jury subpoena enforcement (1929-03-12)
+
+FINANCIAL ANALYSIS:
+Years Investigated: 1925-1929
+Unreported Income: $1,038,654 (approximately)
+Tax Liability: $215,080.48 plus penalties
+Evasion Amount: $215,080.48 (Federal prosecution threshold exceeded)
+
+EVIDENCE LOG:
+EVIDENCE-931-001: Ledger from gambling operation (seized 1930-06-15)
+EVIDENCE-931-002: Western Union telegrams (53 documents)
+EVIDENCE-931-003: Bank records, Pinkert State Bank (account #45678)
+EVIDENCE-931-004: Cashier's checks payable to "A. Costa" (Capone alias)
+EVIDENCE-931-005: Property deeds, Palm Island, FL (value: $40,000)
+EVIDENCE-931-006: Witness testimony transcripts (12 witnesses)
+
+TRIAL INFORMATION:
+Court: United States District Court, Northern District of Illinois
+Judge: Hon. James H. Wilkerson
+Prosecutors: US Attorney George E.Q. Johnson, Samuel G. Clawson
+Defense: Albert Fink, Michael Ahern, Benjamin P. Epstein
+Trial Dates: 1931-10-06 to 1931-10-17
+Verdict: GUILTY (5 counts felony, 3 counts misdemeanor)
+Sentence: 11 years federal prison + $50,000 fine + $215,000 costs
+
+INCARCERATION:
+1932-05-04 to 1934-08-19: US Penitentiary Atlanta (USP-ATL-INMATE-85)
+1934-08-20 to 1939-01-06: USP Alcatraz (USP-ALC-INMATE-85)
+1939-01-06 to 1939-11-16: Terminal Island Prison (health decline)
+RELEASE: 1939-11-16 (early release, medical grounds)
+Medical Diagnosis: Tertiary syphilis, dementia paralytica
+
+POST-RELEASE:
+Residence: Palm Island, Florida (25.7617°N, 80.1918°W)
+Mental Status: 1946 psychiatric evaluation - mental age 12 years
+Death: 1947-01-25, cardiac arrest and pneumonia
+Location: Palm Island Estate, 93 Palm Avenue, Miami Beach, FL
+
+IMPACT ASSESSMENT:
+Prohibition Era: Demonstrated federal reach in organized crime
+Legal Precedent: Tax evasion as viable prosecution strategy
+Media Coverage: International attention, 2,847 newspaper articles
+Cultural Impact: Subject of 156 books, 43 films, 87 documentaries
+
+CASE FILES: https://vault.fbi.gov/al-capone/
+PAGES: 1,127 | IMAGES: 234 | AUDIO: 12 recordings
+DECLASSIFICATION: 1983-05-20 per Executive Order 12356
+REDACTIONS: [████] portions withheld under (b)(7)(C) exemption
+
+================================================================================
+
+=== CASE FILE: CF-1934-DAL-007890 ===
+CLASSIFICATION: SECRET//NOFORN [DECLASSIFIED 1985]
+OPERATION: AMBUSH AT BLACK LAKE
+DATE: 23-MAY-1934 09:15:00Z
+LOCATION: Highway 154, Bienville Parish, LA (32.4607°N, 93.0293°W)
+SUBJECT: BARROW, Clyde Chestnut & PARKER, Bonnie Elizabeth
+CASE AGENTS: Texas Ranger Frank Hamer, FBI liaison SA L.A. Kindell
+CONTACT: hamer.f@texasrangers.gov | PHONE: +1-214-555-0134
+DOCUMENT ID: DOC-FBI-1934-BONNIE-CLYDE-FINAL
+
+PRIMARY SUBJECTS:
+Subject 1: Clyde Chestnut Barrow
+  DOB: 1909-03-24 | Age: 25 | Height: 5'7" | Weight: 130 lbs
+  SSN: 345-12-6789 | FBI #: 2345678
+  Address (last known): West Dallas, TX (32.7767°N, 96.8200°W)
+  Scars: Left forearm burn (gasoline), missing two toes left foot
+
+Subject 2: Bonnie Elizabeth Parker  
+  DOB: 1910-10-01 | Age: 23 | Height: 4'11" | Weight: 90 lbs
+  SSN: 456-23-7890 | FBI #: 3456789
+  Address (last known): Dallas, TX (32.7767°N, 96.8000°W)
+  Scars: Severe burns right leg (vehicle fire 1933-06-10)
+
+GANG ASSOCIATES (Active):
+- William Daniel Jones (SSN: 567-34-8901, STATUS: IN CUSTODY)
+- Henry Methvin (SSN: 678-45-9012, STATUS: INFORMANT, CI-934-LA-023)
+- Raymond Hamilton (SSN: 789-56-0123, STATUS: CAPTURED 1934-04-06)
+
+CRIMINAL ACTIVITY LOG:
+Total Murders: 13 confirmed (9 law enforcement officers, 4 civilians)
+Bank Robberies: 15 (estimated $35,000 total)
+Store Robberies: 23+ (gas stations, grocery stores)
+Vehicle Thefts: 47 confirmed (Federal jurisdiction under Dyer Act)
+Kidnappings: 5 (released unharmed)
+Weapons Used: BAR M1918 (SERIAL: M918-45678), .45 Colt 1911 (SERIAL: C456789)
+
+SELECTED INCIDENTS:
+1933-04-13: Joplin, MO shootout - 2 officers killed (CASE: CF-933-JOP-413)
+1933-06-23: Wellington, TX car accident - Bonnie severely burned
+1934-01-16: Eastham Prison Farm raid - Raymond Hamilton freed, guard killed
+1934-04-01: Highway 114, TX - Officers Wheeler & Murphy killed (CASE: CF-934-GRA-401)
+
+FBI JURISDICTION:
+Primary: Interstate transportation of stolen vehicles (18 U.S.C. § 2312)
+Secondary: Federal bank robbery (12 U.S.C. § 588b)
+Bureau Involvement: December 1932 (stolen vehicle crossed state lines)
+Manhunt Duration: 17 months (555 days active pursuit)
+
+OPERATION BLACK LAKE:
+Informant: Henry Methvin (TURNED: 1934-02-10, DEAL: Immunity offered)
+Intelligence: Barrow Gang visiting Methvin family, Bienville Parish, LA
+Location: Louisiana Highway 154 near Gibsland (ambush coordinates: 32.4607N/93.0293W)
+Task Force: 6 officers (4 Texas, 2 Louisiana)
+  - Capt. Frank Hamer, Texas Rangers (LEAD, BADGE: TR-1934-001)
+  - Deputy Sheriff Prentiss Oakley (LA, BADGE: BP-934-012)  
+  - Henderson Jordan, Sheriff (LA, BADGE: BP-934-001)
+  - Deputy Bob Alcorn (TX, BADGE: DAL-934-034)
+  - Deputy Ted Hinton (TX, BADGE: DAL-934-045)
+  - Deputy Manny Gault (TX, BADGE: TR-1934-023)
+
+AMBUSH DETAILS:
+Date: 1934-05-23 Wednesday
+Weather: Clear, temperature 72°F
+Setup: Concealed position 50 yards from road, pine grove
+Vehicle: 1934 Ford Fordor Deluxe sedan (STOLEN: VIN-34F-456789)
+  Color: Desert sand (tan)
+  License: Louisiana plate 588-836
+  Owner: Ruth Warren, Topeka, KS (reported stolen 1934-04-29)
+
+TIMELINE:
+09:10:00Z - Barrow vehicle approaches from north
+09:13:45Z - Vehicle slows near staged truck (decoy)
+09:15:00Z - Officers open fire - approximately 150 rounds total
+09:15:23Z - Vehicle comes to rest in ditch
+09:17:30Z - Officers approach - both subjects deceased
+09:25:00Z - Coroner Dr. J.L. Wade arrives
+09:45:00Z - Bodies removed to Conger Furniture Store, Arcadia, LA
+
+BALLISTICS REPORT:
+Subject Barrow: 51 gunshot wounds (17 entry, 34 fragments)
+Subject Parker: 47 gunshot wounds (26 entry, 21 fragments)
+Weapons recovered from vehicle: 
+  - 3x BAR M1918 rifles (EVIDENCE: 934-BAR-001, 002, 003)
+  - 2x sawed-off shotguns (EVIDENCE: 934-SG-001, 002)
+  - 10x pistols various calibers (EVIDENCE: 934-PIST-001 through 010)
+  - 3,000+ rounds ammunition (EVIDENCE: 934-AMMO-001)
+
+EVIDENCE INVENTORY:
+EVIDENCE-934-201: 1934 Ford vehicle (bullet-riddled, 167 impacts)
+EVIDENCE-934-202: Personal effects (wallets, photos, letters)
+EVIDENCE-934-203: Stolen property (jewelry, watches, cash $507.32)
+EVIDENCE-934-204: Road maps with marked locations
+EVIDENCE-934-205: Camera with undeveloped film (31 exposures)
+EVIDENCE-934-206: Poetry notebook (Bonnie Parker's compositions)
+
+AUTOPSY REPORTS:
+Barrow: Dr. J.L. Wade, Bienville Parish Coroner (DOC: AUTOPSY-934-BARROW)
+Parker: Dr. J.L. Wade, Bienville Parish Coroner (DOC: AUTOPSY-934-PARKER)
+Time of Death: Both subjects - 1934-05-23 09:15:30Z (approximate)
+
+DISPOSITION:
+Barrow body: Western Heights Cemetery, Dallas, TX (32.7485°N, 96.8564°W)
+  Funeral: 1934-05-25, attended by approximately 20,000 people
+Parker body: Crown Hill Memorial Park, Dallas, TX (32.8042°N, 96.8689°W)
+  Funeral: 1934-05-26, attended by approximately 15,000 people
+  Note: Families refused joint burial despite couple's wishes
+
+COMPENSATION:
+Texas Bankers Association reward: $3,500 (divided among posse)
+Louisiana reward: $500 (divided among posse)
+Total paid to informant Methvin family: $1,200
+Vehicle ownership dispute: Warren v. Jordan (LA Court case #34-CV-1289)
+
+MEDIA IMPACT:
+Newspaper articles: 2,346 (May-June 1934)
+Public viewing: Estimated 16,000 viewed bodies at funeral homes
+Film footage: Pathé News, Movietone News (FOOTAGE: 934-FILM-001)
+Photographs: 234 crime scene photos (RESTRICTED until 1985)
+
+CASE CLOSURE: 1934-05-23 12:00:00Z
+FILES: https://vault.fbi.gov/bonnie-and-clyde/
+DECLASSIFICATION: 1985-03-12 per FOIA #85-0156
+PAGES: 456 | PHOTOGRAPHS: 234 | EVIDENCE ITEMS: 89
+REDACTIONS: Minimal - [██] witness names withheld under (b)(7)(C)
+
+================================================================================
+
+=== CASE FILE: CF-2001-SF-012345 ===
+CLASSIFICATION: TOP SECRET//SI//TK [DECLASSIFIED 2019]
+OPERATION: UNABOMBER MANHUNT
+DATE: 03-APR-1996 09:45:00Z
+LOCATION: Lincoln, Montana (46.9525°N, 112.6838°W)
+SUBJECT: KACZYNSKI, Theodore John
+CASE AGENT: Special Agent Terry D. Turchie
+CONTACT: turchie.t@fbi.gov | PHONE: +1-406-555-0196
+DOCUMENT ID: DOC-FBI-1996-UNABOM-ARREST
+
+SUBJECT PROFILE:
+NAME: Theodore John Kaczynski
+ALIASES: "Unabomber", "FC" (Freedom Club)
+DOB: 1942-05-22 | Age: 53 | Height: 5'9" | Weight: 147 lbs
+SSN: 987-65-4321 | FBI #: 7654321
+Education: Harvard University AB 1962, PhD Mathematics U.Michigan 1967
+Employment: UC Berkeley Professor (1967-1969, resigned)
+
+RESIDENCE:
+Primary: 10' x 12' cabin, Lincoln, MT (no electricity, no running water)
+GPS: 46.9525°N, 112.6838°W, elevation 5,280 feet
+Parcel: Section 14, Township 13N, Range 7W
+Nearest Road: Stemple Pass Road, 1.4 miles from cabin
+
+INVESTIGATION TIMELINE:
+First Bombing: 1978-05-25, Northwestern University (CASE: CF-978-CHI-525)
+Final Bombing: 1995-04-24, Sacramento, CA (CASE: CF-995-SAC-424)
+Duration: 17 years, 11 months (6,209 days)
+Total Bombings: 16 devices
+Casualties: 3 killed, 23 injured
+Task Force: UNABOM Task Force (established 1980-01-15)
+
+FORENSIC EVIDENCE:
+Bomb Construction: Unique signature - hand-carved wooden components
+Materials: Primarily salvaged/recycled materials
+Triggering Mechanisms: Custom-designed, no commercial parts
+Tool Marks: Distinctive filing patterns (DATABASE: UNABOM-TOOLMARK-001)
+
+SELECTED ATTACKS:
+1978-05-25: Northwestern U, Evanston IL - Security guard injured
+  Package: To Prof. Buckley Crist from Prof. E.J. Smith (Rensselaer)
+  Device: EVIDENCE-978-001, partially detonated
+  
+1979-11-15: American Airlines Flight 444 - 12 injured (smoke inhalation)
+  Device: Mailed package, altitude-triggered detonator
+  FBI Classification: Changed to major case (airline=federal jurisdiction)
+  
+1985-12-11: Sacramento CA - Computer store owner Hugh Scrutton killed
+  Device: Parking lot bomb disguised as road debris
+  First fatality - Investigation priority escalated
+  
+1987-02-20: Salt Lake City UT - Gary Wright injured
+  Witness description: Hooded figure, aviator sunglasses
+  Composite sketch: SKETCH-987-UNABOM-001
+  
+1993-06-22: Tiburon CA - Dr. Charles Epstein injured
+  Package bomb, severe hand/facial injuries
+  
+1993-06-24: New Haven CT - Prof. David Gelernter injured  
+  Package bomb, severe hand injuries
+  
+1994-12-10: North Caldwell NJ - Thomas Mosser killed
+  VP Burson-Marsteller public relations
+  Home bombing, family present
+  
+1995-04-24: Sacramento CA - Gilbert Murray killed
+  California Forestry Association president
+  Mail bomb, office explosion
+
+MANIFESTO:
+Title: "Industrial Society and Its Future"
+Length: 35,000 words (87 pages typed)
+Publication: New York Times & Washington Post (1995-09-19)
+Cost: $30,000-$40,000 (estimated publication cost)
+Key Themes: Anti-technology, anti-industrialization
+Pen Name: "FC" (Freedom Club, later determined single author)
+
+BREAK IN CASE:
+Informant: David Kaczynski (BROTHER, CI-996-SF-042)
+Tip Date: 1996-02-19 via attorney Anthony P. Bisceglie
+Recognition: Writing style similarities to brother's letters
+Reward: $1,000,000 offered, waived by informant
+Analysis: FBI linguistic analysis team (10 person unit)
+Comparison: Personal letters, essays from 1970s-1990s
+Probability: 99.7% match (Report: LING-996-UNABOM-001)
+
+ARREST OPERATION:
+Date: 1996-04-03 Wednesday
+Time: 09:45:00Z (02:45 local MST)
+Location: Stemple Pass Road, Lincoln MT
+Tactical Team: FBI Hostage Rescue Team (12 agents)
+Arrest Team Leader: SA Terry D. Turchie (BADGE: FBI-996-001)
+Warrant: Federal arrest warrant #96-CR-042 (sealed)
+
+ARREST DETAILS:
+Subject approached while walking to town
+Verbal commands issued: 09:45:15Z
+Subject compliance: Immediate, no resistance
+Miranda rights: Read at 09:47:30Z
+Restraints: Handcuffs applied 09:45:30Z
+Transport: Helena, MT FBI office, arrived 11:20:00Z
+
+SEARCH WARRANT EXECUTION:
+Warrant: #96-SW-043 issued by Judge Charles C. Lovell
+Entry Time: 10:15:00Z (immediately after arrest)
+Search Duration: 11 hours 20 minutes
+Team: 42 agents, 12 technicians
+
+EVIDENCE RECOVERED:
+EVIDENCE-996-001: Completed bomb (ready to mail)
+EVIDENCE-996-002: Bomb components (wires, batteries, pipes)
+EVIDENCE-996-003: Manifesto drafts (handwritten, 7 versions)
+EVIDENCE-996-004: Journals (10 volumes, 1969-1995)
+EVIDENCE-996-005: Chemistry reference books (47 titles)
+EVIDENCE-996-006: Tools matching tool mark database
+EVIDENCE-996-007: Typewriter (Royal portable, SN: RY-456789)
+EVIDENCE-996-008: Hooded sweatshirt, aviator sunglasses (matching witness descriptions)
+EVIDENCE-996-009: Copper piping (matches bomb fragments)
+EVIDENCE-996-010: Hand-carved wooden boxes (signature construction)
+EVIDENCE-996-011: Letters, correspondence (200+ items)
+EVIDENCE-996-012: Target research materials (newspaper clippings, 1,000+ items)
+
+FORENSIC MATCHES:
+Typewriter: Matches manifesto, all letters (100% certainty)
+Tool marks: Match bomb components from 14/16 bombings
+Wood samples: Match bomb components (Oak, precise species match)
+Handwriting: Match to manifesto drafts, letters
+DNA: Touch DNA from stamps/envelopes (3 bombings)
+
+CHARGES FILED:
+District: Eastern District of California (Case: CR-S-96-259-GEB)
+Counts: 10 federal charges
+  - Transportation of explosive with intent to kill (3 counts)
+  - Mailing explosive device (1 count)  
+  - Murder through use of destructive device (2 counts)
+  - Additional charges (4 counts)
+Potential Sentence: Death penalty sought initially
+
+LEGAL PROCEEDINGS:
+Arraignment: 1996-04-05, Sacramento Federal Court
+Judge: Hon. Garland E. Burrell Jr.
+Prosecution: Robert J. Cleary (AUSA), Stephen P. Freccero (AUSA)
+Defense: Quin Denvir (Federal Defender), Judy Clarke
+Competency Evaluation: Sacramento County Jail, Dr. Sally Johnson (Psychiatrist)
+Diagnosis: Schizophrenia, paranoid type (contested by defendant)
+
+PLEA AGREEMENT:
+Date: 1998-01-22
+Terms: Guilty plea to all charges
+Sentence: Life imprisonment without parole (death penalty waived)
+No Appeals: Defendant waived appellate rights
+Acceptance: Judge Burrell accepted 1998-01-22
+
+SENTENCING:
+Date: 1998-05-04
+Sentence: Life imprisonment without possibility of parole + $15,000,000 restitution
+Victim Statements: 12 victims/family members spoke
+Duration: 6 hours 30 minutes
+Remarks: 20-minute statement by defendant (rejected technology, no remorse)
+
+INCARCERATION:
+1998-05-04 to 2021-12-14: ADX Florence Supermax, Colorado
+  Inmate Number: 04475-046
+  Unit: Special Housing (23-hour lockdown)
+  Cell: 12' x 7' single occupancy
+2021-12-15 to Present: FMC Butner, North Carolina (medical transfer)
+  Reason: Age, declining health
+  Security Level: High security medical facility
+
+IMPACT & LEGACY:
+Investigation Cost: $50,000,000+ (estimated)
+Task Force Size: Peaked at 150 agents, analysts
+Total Suspects: 2,500+ investigated over 17 years
+Public Tips: 20,000+ tips received
+Evidence Items: 3,600+ items catalogued
+Trial Exhibits: 1,200+ exhibits prepared
+Media Coverage: International, 10,000+ articles
+
+MUSEUM & EDUCATION:
+Cabin: Newseum, Washington DC (2008-2019, now in storage)
+Public Tours: 500,000+ visitors viewed cabin
+Evidence: Portions retained FBI Laboratory for training
+Academic Study: 200+ research papers analyzing case
+
+DECLASSIFICATION: 2019-07-15 per FOIA #19-0421
+FILES: https://vault.fbi.gov/unabomber/
+PAGES: 4,567 | EXHIBITS: 1,200+ | REDACTIONS: [███] minimal
+EVIDENCE PHOTOS: 2,345 images | VIDEO: 23 hours footage
+EMAIL: unabom.foia@fbi.gov | PHONE: +1-202-555-0196
+
+================================================================================
+
+DOCUMENT STATISTICS:
+TOTAL CASES: 6 major investigations
+DATE RANGE: 1947-2001 (54 years)
+DECLASSIFICATION SPAN: 1978-2019 (41 years)
+TOTAL PAGES: 7,141 original documents
+TOTAL EVIDENCE ITEMS: 4,234 catalogued items
+PUBLIC REQUESTS (2011-2025): 12,567,892 Vault views
+FREEDOM OF INFORMATION ACT REQUESTS: 2,847 processed
+
+CONTACT INFORMATION:
+FBI Records Management Division
+935 Pennsylvania Avenue NW
+Washington, DC 20535-0001
+Phone: +1-202-324-3000
+Email: vault@fbi.gov
+Website: https://vault.fbi.gov/
+
+CLASSIFICATION MARKINGS LEGEND:
+TS = TOP SECRET
+S = SECRET  
+C = CONFIDENTIAL
+U = UNCLASSIFIED
+//NOFORN = Not Releasable to Foreign Nationals
+//SI = Special Intelligence
+//TK = Talent Keyhole
+//REL TO = Releasable To (specific countries)
+
+================================================================================
+END OF DOCUMENT
+COMPILED BY: FBI Records Management Division
+RELEASE DATE: 2025-02-05
+PUBLIC DOMAIN - NO RESTRICTIONS ON USE
+================================================================================

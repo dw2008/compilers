@@ -1,0 +1,39 @@
+WRITELN(3);
+WRITELN(-(-5));
+WRITELN(-(6));
+WRITELN(-3);
+WRITELN(6 * 2 / 3);
+WRITELN(6 / 2 * 3);
+WRITELN(6 / (2 * 3));
+WRITELN(2 + 3 * 4);
+WRITELN(2 * 3 + 4);
+WRITELN((2 + 3) * 4);
+WRITELN(2 - 3 * 4);
+BEGIN
+    WRITELN(1);
+    WRITELN(2);
+    BEGIN
+        WRITELN(3);
+    END;
+END;
+WRITELN(123765);
+BEGIN
+    x := 2;
+    y := x + 1;
+    x := x + y;
+WRITELN(x * y);
+END;
+
+val := 3;
+max := 1;
+WRITELN(max);
+IF val > max THEN max := val;
+WRITELN(max);
+
+count := 5;
+WHILE count > 0 DO
+BEGIN
+    WRITELN(count);
+    count := count - 1;
+END;
+.
