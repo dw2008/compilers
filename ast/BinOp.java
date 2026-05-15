@@ -1,5 +1,8 @@
 package ast;
 
+import emitter.Emitter;
+import scanner.ScanErrorException;
+
 /**
  * Definition for class BinOp for ast, extends Expression and has a String op, and
  * two Expressions: exp1 and exp2
@@ -51,5 +54,35 @@ public class BinOp extends Expression
     public Expression getExp2()
     {
         return exp2;
+    }
+
+    /**
+     * Compile method for Binop, uses stack manipulation and stuff
+     * @param e the emitter to use
+     */
+    public void compile(Emitter e)
+    {
+        exp1.compile(e);
+        e.emitPush("$v0");
+        exp2.compile(e);
+        e.emitPop("$t0");
+
+        switch(op)
+        {
+            case "+":
+                e.emit("addu $v0 $t0 $v0");
+                break;
+            case "-":
+                e.emit("subu $v0 $t0 $v0");
+                break;
+            case "*":
+                e.emit("mult $t0 $v0");
+                e.emit("mflo $v0");
+                break;
+            case "/":
+                e.emit("div $t0 $v0");
+                e.emit("mflo $v0");
+                break;
+        }
     }
 }

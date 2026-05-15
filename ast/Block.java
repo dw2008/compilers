@@ -1,5 +1,7 @@
 package ast;
 
+import emitter.Emitter;
+
 import java.util.List;
 
 /**
@@ -28,5 +30,17 @@ public class Block extends Statement
     public List<Statement> getStmts()
     {
         return stmts;
+    }
+
+    /**
+     * Compiles each statement in the block
+     * @param e the emitter to use
+     */
+    public void compile(Emitter e)
+    {
+        for(Statement stmt: stmts)
+        {
+            stmt.compile(e);
+        }
     }
 }

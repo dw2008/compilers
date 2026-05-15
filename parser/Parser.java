@@ -80,13 +80,29 @@ public class Parser
 
     /**
      * Parses a program
-     * program → PROCEDURE id ( ) ; stmt program | stmt .
+     * program → VARS var, ..., ; | PROCEDURE id ( ) ; stmt program | stmt .
      * @return new program
      * @throws ScanErrorException if not a proper program
      */
     public Program parseProgram() throws ScanErrorException
     {
         List<ProcedureDeclaration> procedures = new ArrayList<>();
+        List<String> vars = new ArrayList<>();
+
+        while(current.equals("VAR"))
+        {
+            eat("VAR");
+            vars.add(current);
+            eat(current);
+            while(current.equals(","))
+            {
+                eat(",");
+                vars.add(current);
+                eat(current);
+            }
+            eat(";");
+        }
+
         while(current.equals("PROCEDURE"))
         {
             eat("PROCEDURE");
@@ -110,9 +126,10 @@ public class Parser
             Statement stmt = parseStatement();
             procedures.add(new ProcedureDeclaration(stmt, name, params));
         }
+
         Statement body = parseStatement();
         eat(".");
-        return new Program(procedures, body);
+        return new Program(procedures, vars, body);
     }
 
     /**

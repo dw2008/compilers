@@ -1,5 +1,7 @@
 package ast;
 
+import emitter.Emitter;
+
 /**
  * Definition for class Number for ast, extends Expression and has an int value
  * @author Daniel Wu
@@ -26,5 +28,14 @@ public class Number extends Expression
     public int getValue()
     {
         return value;
+    }
+
+    /**
+     * Compiles a number, loads its value into $v0
+     * @param e the emitter to use
+     */
+    public void compile (Emitter e)
+    {
+        e.emit("li $v0 " + value);
     }
 }

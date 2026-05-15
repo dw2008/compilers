@@ -1,5 +1,7 @@
 package ast;
 
+import emitter.Emitter;
+
 /**
  * While class represents an [WHILE cond DO stmt] expression; cond is a Condition and stmt
  * is a Statement
@@ -39,5 +41,19 @@ public class While extends Statement
     public Statement getStmt()
     {
         return stmt;
+    }
+
+    /**
+     * Compile method for While
+     * @param e the emitter to use
+     */
+    public void compile(Emitter e)
+    {
+        int id = e.nextLabelID();
+        e.emit("loop" + id + ":");
+        cond.compile(e, "endwhile" + id + " #jump to endwhile if done");
+        stmt.compile(e);
+        e.emit("j loop" + id + " #jump back");
+        e.emit("endwhile" + id + ":");
     }
 }

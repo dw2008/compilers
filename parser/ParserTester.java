@@ -1,13 +1,15 @@
 package parser;
 
+import ast.*;
+import ast.Number;
 import environment.Environment;
-import ast.Evaluator;
 import scanner.ScanErrorException;
 import scanner.Scanner;
 
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.io.InputStream;
+import java.util.ArrayList;
 
 /**
  * ParserTester is a simple tester for Parser, loops through parseStatement until EOF
@@ -18,11 +20,18 @@ public class ParserTester
 {
     public static void main(String[] args) throws FileNotFoundException, ScanErrorException
     {
-        InputStream in = new FileInputStream("./parser/parserTest8.txt");
+//        InputStream in = new FileInputStream("./parser/parserTest8.txt");
+//        Scanner scanner = new Scanner(in);
+//        Parser parser = new Parser(scanner);
+//        Evaluator e = new Evaluator();
+//        Environment env = new Environment();
+//        e.exec(parser.parseProgram(), env);
+
+        FileInputStream in = new FileInputStream("./parser/parserTest9.txt");
         Scanner scanner = new Scanner(in);
         Parser parser = new Parser(scanner);
-        Evaluator e = new Evaluator();
-        Environment env = new Environment();
-        e.exec(parser.parseProgram(), env);
+
+        Program program = parser.parseProgram();
+        program.compile("testFile1.asm");
     }
 }

@@ -1,5 +1,7 @@
 package ast;
 
+import emitter.Emitter;
+
 /**
  * If class represents an [IF cond THEN stmt] expression; cond is a Condition and stmt
  * is a Statement
@@ -62,5 +64,32 @@ public class If extends Statement
     public Statement getElseStmt()
     {
         return elseStmt;
+    }
+
+    /**
+     * Compile method for if
+     * @param e the emitter to use
+     */
+    public void compile(Emitter e)
+    {
+        int id = e.nextLabelID();
+
+        if(elseStmt == null)
+        {
+            String endLabel = "endif" + id;
+            cond.compile(e, endLabel);
+            thenStmt.compile(e);
+            e.emit(endLabel + ":");
+        }
+
+        else
+        {
+            cond.compile(e, "else" + id);
+            thenStmt.compile(e);
+            e.emit("j endif" + id);
+            e.emit("else" + id + ":");
+            elseStmt.compile(e);
+            e.emit("endif" + id + ":");
+        }
     }
 }

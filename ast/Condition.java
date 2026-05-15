@@ -1,5 +1,7 @@
 package ast;
 
+import emitter.Emitter;
+
 /**
  * Condition class represents a conditional in an IF statement, has two expressions
  * and a relop (can be =, >, <, >=, <=, <>)
@@ -44,5 +46,39 @@ public class Condition extends Expression
     public String getRelop()
     {
         return relop;
+    }
+
+    /**
+     * Compiles a condition
+     * @param e the emitter to use
+     */
+    public void compile(Emitter e, String targetLabel)
+    {
+        exp1.compile(e);
+        e.emitPush("$v0");
+        exp2.compile(e);
+        e.emitPop("$t0");
+
+        switch(relop)
+        {
+            case "=":
+                e.emit("bne $t0, $v0, " + targetLabel);
+                break;
+            case "<>":
+                e.emit("beq $t0, $v0, " + targetLabel);
+                break;
+            case ">":
+                e.emit("ble $t0, $v0, " + targetLabel);
+                break;
+            case "<":
+                e.emit("bge $t0, $v0, " + targetLabel);
+                break;
+            case ">=":
+                e.emit("blt $t0, $v0, " + targetLabel);
+                break;
+            case "<=":
+                e.emit("bgt $t0, $v0, " + targetLabel);
+                break;
+        }
     }
 }

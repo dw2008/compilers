@@ -1,5 +1,7 @@
 package ast;
 
+import emitter.Emitter;
+
 /**
  * Definition for class Variable for ast, extends Expression and has a String name
  * @author Daniel Wu
@@ -26,5 +28,15 @@ public class Variable extends Expression
     public String getName()
     {
         return name;
+    }
+
+    /**
+     * Compiles a variable
+     * @param e the emitter to use
+     */
+    public void compile(Emitter e)
+    {
+        e.emit("la $t0 var" + name);
+        e.emit("lw $v0 ($t0) #puts value of variable in $v0");
     }
 }

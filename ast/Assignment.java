@@ -1,5 +1,7 @@
 package ast;
 
+import emitter.Emitter;
+
 /**
  * Definition for class Assignment for ast, extends Statement and has String var, Expression exp
  * @author Daniel Wu
@@ -38,5 +40,15 @@ public class Assignment extends Statement
     public Expression getExp()
     {
         return exp;
+    }
+
+    /**
+     * Compiles an assignment
+     * @param e emitter to use
+     */
+    public void compile(Emitter e)
+    {
+        exp.compile(e);
+        e.emit("sw $v0, var" + var);
     }
 }
